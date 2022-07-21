@@ -16,7 +16,7 @@ export default function Ipad() {
           <Compra />
         </TextIpad>
         <IpadImage>
-          <img src="./img/Ipadair.jpg" alt="" />
+          <img src="https://wikiimg.tojsiabtv.com/wikipedia/en/thumb/e/ec/IPad_Air_%284th_generation%2C_logo%29.svg/1200px-IPad_Air_%284th_generation%2C_logo%29.svg.png" alt="" />
         </IpadImage>
       </Controllipad>
     </>
