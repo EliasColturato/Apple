@@ -28,9 +28,9 @@ export const TextIpad = styled.div`
 `;
 
 export const IpadImage = styled.div`
-  img {
-    width: 25%;
     display: flex;
     justify-content: center;
+  img {
+    width: 25%;
   }
 `;
