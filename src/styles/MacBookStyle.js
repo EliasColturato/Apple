@@ -11,6 +11,7 @@ export const TextMac = styled.div`
 `;
 
 export const MacbookImage = styled.div`
+  align-items: center;
   width: 100%;
   justify-content: center;
   display: flex;
