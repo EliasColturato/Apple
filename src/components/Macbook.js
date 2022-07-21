@@ -11,7 +11,7 @@ export default function Macbook() {
           <p>Com a potência do Chip M1.</p>
         </TextMac>
         <Compra />
-        <img src="./img/macbookpro.jpg" alt="" />
+        <img src="https://www.apple.com/newsroom/images/product/mac/standard/Apple_MacBook-Pro_14-16-inch_10182021.jpg.og.jpg?202206301035" alt="" />
         <MacbookImage></MacbookImage>
       </ImageControll>
     </>
