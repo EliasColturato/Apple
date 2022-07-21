@@ -28,7 +28,7 @@ export const TextIpad = styled.div`
 
 export const IpadImage = styled.div`
   img {
-    width: 100%;
+    width: 50%;
     display: flex;
     justify-content: center;
   }
