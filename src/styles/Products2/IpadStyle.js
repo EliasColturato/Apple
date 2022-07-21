@@ -6,6 +6,7 @@ export const Controllipad = styled.div`
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  align-items: center;
   background-color: black;
   @media (max-width: 1000px) {
     width: 100%;
@@ -28,7 +29,7 @@ export const TextIpad = styled.div`
 
 export const IpadImage = styled.div`
   img {
-    width: 50%;
+    width: 25%;
     display: flex;
     justify-content: center;
   }
