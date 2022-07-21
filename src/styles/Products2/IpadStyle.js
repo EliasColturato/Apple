@@ -14,7 +14,7 @@ export const Controllipad = styled.div`
 
 export const TextIpad = styled.div`
   img {
-    width: 30%;
+    width: 60%;
   }
   h1 {
     font-size: 200%;
