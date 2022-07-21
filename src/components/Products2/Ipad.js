@@ -11,7 +11,7 @@ export default function Ipad() {
     <>
       <Controllipad>
         <TextIpad>
-          <img src="./img/iPadLogo.png" alt="" />
+          <img src="https://www.apple.com/v/ipad-air/r/images/meta/ipad-air_overview__cahgij9otxua_og.png" alt="" />
           <p style={{ color: 'white' }}>Cor e potência no ar.</p>
           <Compra />
         </TextIpad>
