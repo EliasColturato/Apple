@@ -15,6 +15,6 @@ export const MacbookImage = styled.div`
   justify-content: center;
   display: flex;
   img{
-  width: 100%;
+  width: 80%;
   }
 `;
